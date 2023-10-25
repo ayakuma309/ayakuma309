@@ -17,24 +17,14 @@
   <a href="https://github.com/ayakuma309">
     <img src="https://komarev.com/ghpvc/?username=ayakuma309" alt="ayakuma309" />
   </a>
-  <a href="http://twitter.com/ZCunkuma">
-    <img height="20" src="https://img.shields.io/twitter/follow/ZCunkuma?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/ayakuma309">
-    <img height="20" src="https://img.shields.io/github/followers/ayakuma309?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/kuma32">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kuma32/posts.svg" />
-  </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kuma32/contributions.svg" />
-  </a>
 </p>
+
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayakuma309&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ayakuma309&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
+
 
 [![github-chart](https://github-chart.vercel.app/api?user=ayakuma309)](https://github.com/ayakuma309/github-chart)
 
