@@ -21,10 +21,3 @@
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayakuma309&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ayakuma309&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
-
-
-[![github-chart](https://github-chart.vercel.app/api?user=ayakuma309)](https://github.com/ayakuma309/github-chart)
-
