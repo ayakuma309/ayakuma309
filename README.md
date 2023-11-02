@@ -21,3 +21,18 @@
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
+### 作ったもの
+- くまアバター: https://kuma-avatar.vercel.app/
+- アプリガチャ: https://pf-gacha.web.app/
+- あの人の感じはどんな漢字: https://feeling-kanji.vercel.app/
+- 感謝を伝え鯛。: https://thank-you-tai.vercel.app/
+- My Jukebox: https://my-jukebox.vercel.app/
+- Movie Wizard: https://movie-wizard.vercel.app/
+- Game Lottery: https://game-lottery-one.vercel.app/
+- セリフの映画館: https://movie-dialoge.vercel.app/
+- Music Tresure Hunter: https://music-treasurehunter.vercel.app/
+- マスクをした本たち: https://maskedbook.fly.dev/
+- ヒーロー1: https://movie-heroes.vercel.app/
+- ヒーロー2: https://timely-licorice-24485d.netlify.app/
+- 第二回RUNTEQ祭: https://festival-60805.web.app/
+- letters-tube: 現在開発中
