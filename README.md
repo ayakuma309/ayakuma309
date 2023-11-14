@@ -43,8 +43,8 @@
 |<img src="https://skillicons.dev/icons?i=tailwind,ruby,rails,postgres" width="100px" />|<img src="https://skillicons.dev/icons?i=materialui,tailwind,ts,nextjs,prisma,postgres,vercel" width="175px" />|<img src="https://skillicons.dev/icons?i=tailwind,ts,nextjs,prisma,mysql,planetscale,vercel" width="175px" />|
 
 ### その他
-[Hero2](https://timely-licorice-24485d.netlify.app/)<br/>
-  <img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/b6602196-f9fe-491e-a54e-52799ce08a0a" width="200px" /><br/>
-[ありがとう](https://festival-60805.web.app/)<br/>
-  <img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/4752377e-4d48-4b6e-b8d1-62f91324aaa8" width="200px"  />
+|[Hero2](https://timely-licorice-24485d.netlify.app/)|[ありがとう](https://festival-60805.web.app/)
+----|---- 
+|<img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/b6602196-f9fe-491e-a54e-52799ce08a0a" width="200px" />|<img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/4752377e-4d48-4b6e-b8d1-62f91324aaa8" width="200px"  />
   
+<!-- -->
