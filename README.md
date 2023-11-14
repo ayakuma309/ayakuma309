@@ -20,7 +20,7 @@
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
-<!--
+
 ## 最近作成した作品 
 
 | [くまアバター](https://kuma-avatar.vercel.app/) | [アプリガチャ](https://pf-gacha.web.app/) |[あの人の感じはどんな漢字](https://feeling-kanji.vercel.app/)|
@@ -48,4 +48,3 @@
 ----|---- 
 |<img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/b6602196-f9fe-491e-a54e-52799ce08a0a" width="200px" />|<img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/4752377e-4d48-4b6e-b8d1-62f91324aaa8" width="200px"  />
   
-  -->
