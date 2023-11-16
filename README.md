@@ -21,7 +21,7 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
 
-## 最近作成した作品 
+## 最近作成したミニアプリ
 
 | [くまアバター](https://kuma-avatar.vercel.app/) | [アプリガチャ](https://pf-gacha.web.app/) |[あの人の感じはどんな漢字](https://feeling-kanji.vercel.app/)|
 ----|---- | ----
