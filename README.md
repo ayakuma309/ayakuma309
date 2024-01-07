@@ -4,12 +4,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=tokyonight)
 
-### 使ったことがある
+<!--### 使ったことがある
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,emotion,materialui,tailwind,html,css,sass,js,ts,ruby,jquery,react,nextjs,nodejs,express,fastapi,rails,jest,prisma,mysql,postgres,postman,firebase,planetscale,supabase,netlify,vercel" />
   </a>
-</p>
+</p>-->
 
 
 <p align="left">
@@ -21,7 +21,7 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
 
-## 最近作成したミニアプリ
+最近作成したミニアプリ
 
 <details>
 <summary>一覧</summary>
