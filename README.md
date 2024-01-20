@@ -21,7 +21,7 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
 
-最近作成したミニアプリ
+<!-- 最近作成したミニアプリ
 
 <details>
 <summary>一覧</summary>
@@ -60,3 +60,4 @@
 
 
 </details>
+-->
