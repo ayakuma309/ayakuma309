@@ -7,9 +7,9 @@
     <img src="https://komarev.com/ghpvc/?username=ayakuma309" alt="ayakuma309" />
   </a>
 </p>
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=tokyonight)
+<!-- 
 使ったことがある
 <p align="center">
   <a href="https://skillicons.dev">
