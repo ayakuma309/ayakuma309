@@ -9,7 +9,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=tokyonight)
-
+<!-- 
 使ったことがある
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,emotion,materialui,nodejs,express,jest,prisma,firebase,planetscale,supabase,netlify,vercel" />
   </a>
 </p>
+-->
 <!-- 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
