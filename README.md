@@ -27,6 +27,12 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
 -->
+
+# 最近作成したミニアプリ
+- 現在作成中
+  
+  <img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/f5773860-0bfc-49c1-8bad-508cb2c9779c" width="300px" />
+
 ## ミニアプリ
 |[くまアバター](https://kuma-avatar.vercel.app/)| [アプリガチャ](https://pf-gacha.web.app/) |
 ----|---- |
@@ -46,7 +52,7 @@
 | [マスクをした本たち](https://maskedbook.fly.dev/) |[Letters Tube](https://music-treasurehunter.vercel.app/)|
 ----|---- |
 <img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/d13aac3a-d20f-41eb-b9ba-e367077fc272" width="300px" />|<img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/59f6cee2-5aa7-4a11-8ec8-673b424295e4" width="300px" />|
-|📚普段小説を読まない方へ|💃全ての人に感謝を伝えたい|
+|📚普段小説を読まない方へ|💃スクールの情報をまとめたアプリ|
 
 ### ミニミニアプリ
 |[Movie Wizard](https://movie-wizard.vercel.app/)|[Game Lottery](https://game-lottery-one.vercel.app/ )|[Hero](https://movie-heroes.vercel.app/)
