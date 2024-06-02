@@ -31,7 +31,7 @@
 # 最近作成したミニアプリ
 - 現在作成中
   
-  <img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/f5773860-0bfc-49c1-8bad-508cb2c9779c" width="300px" />
+  <img src="https://github.com/ayakuma309/ayakuma309/assets/113405777/d093c5e1-81fa-4221-b433-b4fefb37b899" width="300px" />
 
 ## ミニアプリ
 |[くまアバター](https://kuma-avatar.vercel.app/)| [アプリガチャ](https://pf-gacha.web.app/) |
