@@ -9,22 +9,23 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=tokyonight)
-<!-- 
-使ったことがある
+
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,tailwind,html,css,js,ts,ruby,react,nextjs,fastapi,rails,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,ruby,vue,react,nextjs,rails,fastapi,docker,tailwind" />
   </a>
 </p>
-個人開発で使ったことがある
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,emotion,materialui,nodejs,express,jest,prisma,firebase,planetscale,supabase,netlify,vercel" />
-  </a>
-</p>
--->
+
 <!-- 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,jest,materialui,tailwind" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,express,fastapi,docker,prisma,firebase,planetscale,supabase" />
+  </a>
+</p>
 
 -->
 <!-- 
