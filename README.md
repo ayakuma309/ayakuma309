@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayakuma309&theme=2077)
 
 <p align="left">
@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ayakuma309&theme=tokyonight)
 
-
+-->
 <!-- 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ayakuma309)](https://github.com/ayakuma309)
 
